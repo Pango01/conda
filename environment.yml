@@ -14,6 +14,3 @@ dependencies:
   - scipy
   - ipywidgets
   - Ipython
-  - math
-  - wave
-  - cmath
